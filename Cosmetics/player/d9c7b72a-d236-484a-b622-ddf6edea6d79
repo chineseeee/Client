@@ -1,2 +1,2 @@
-{ "uuid":"d9c7b72a-d236-484a-b622-ddf6edea6d79","username":null,"cosmetics":{ "whitebeta":{ "name":"whitebeta","type":"cape","scale":0.16,"active":true,"resourceLocation":"whitebeta"
+{ "uuid":"d9c7b72a-d236-484a-b622-ddf6edea6d79","username":null,"cosmetics":{ "cathedral":{ "name":"cathedral","type":"cape","scale":0.16,"active":true,"resourceLocation":"cathedral"
 },"white":{ "name":"white","type":"dragon_wings","scale":0.13,"active":true,"resourceLocation":"white"}}}
